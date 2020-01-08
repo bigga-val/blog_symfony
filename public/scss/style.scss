@@ -1,0 +1,11 @@
+.nav{
+	background-color: red;
+	.nav__element{
+		text-align: right;
+		color: white;
+		background-color: blue;
+		.nav__element li{
+			direction: inline;
+		}
+	}
+}
